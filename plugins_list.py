@@ -25,6 +25,9 @@ DEVELOPMENT_STATUS_CLASSIFIERS = (
     "Development Status :: 7 - Inactive",
 )
 
+CHECK_MARK = "✅"
+CROSS_MARK = "❌"
+
 PLUGIN_COUNT = 0
 
 def filter_development_status(plugin_classifiers):
